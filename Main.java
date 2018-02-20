@@ -194,6 +194,7 @@ public class Main {
         exercise8();
         exercise9();
         exercise10();
+        exercise6(); //again for conflict purposes
         exercise11();
         exercise12();
 
