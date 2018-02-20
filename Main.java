@@ -196,7 +196,7 @@ public class Main {
         exercise10();
         exercise6(); //again for conflict purposes
         exercise11();
-        exercise12();
+        exercise12(); //This is to create a conflict
 
         int[] age = new int[10];
         System.out.println(Arrays.toString(age));
